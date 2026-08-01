@@ -1,116 +1,57 @@
 import json
-import re
 import requests
-from bs4 import BeautifulSoup
 from datetime import datetime
 
-# =========================================================
-# SUAS TAGS DE AFILIADO
-# =========================================================
-TAG_AMAZON = "032018011983-20"
+# Seu ID de afiliado
 TAG_MERCADO_LIVRE = "18735177"
 
-# Cabecalho para o site achar que é um navegador real (evita bloqueios)
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-    "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7"
+# Os 4 nichos e as palavras-chave que o robô vai buscar sozinho
+NICHOS = {
+    "Tecnologia": "smart home alexa",
+    "Casa": "utilidades domesticas eletroportateis",
+    "Fitness": "equipamentos musculação",
+    "Pets": "acessorios pet shop"
 }
 
-def extrair_dados_automaticamente(url, nicho, id_produto):
-    """
-    Entra no link do produto, puxa a FOTO REAL e o TÍTULO sozinho!
-    """
-    try:
-        print(f"🤖 Lendo produto #{id_produto}: {url[:45]}...")
-        resposta = requests.get(url, headers=HEADERS, timeout=10)
-        soup = BeautifulSoup(resposta.text, "html.parser")
-
-        # 1. Tenta pegar a foto oficial pela tag OpenGraph do site
-        imagem = None
-        tag_img = soup.find("meta", property="og:image") or soup.find("meta", attrs={"name": "twitter:image"})
-        if tag_img and tag_img.get("content"):
-            imagem = tag_img["content"]
-        else:
-            # Imagem de segurança caso o site bloqueie a leitura
-            imagem = "https://via.placeholder.com/500x500?text=Foto+Indisponivel"
-
-        # 2. Tenta pegar o título oficial do produto
-        titulo = "Produto em Oferta"
-        tag_titulo = soup.find("meta", property="og:title") or soup.find("title")
-        if tag_titulo:
-            titulo_texto = tag_titulo.get("content", "") or tag_titulo.text
-            # Limpa o texto tirando "| Amazon" ou "- Mercado Livre"
-            titulo = re.sub(r"(\||-).*?(Amazon|Mercado Livre|MercadoLivre).*", "", titulo_texto, flags=re.I).strip()
-
-        # 3. Identifica a origem e gera o link de afiliado automaticamente
-        origem = "Amazon" if "amazon.com" in url else "Mercado Livre"
-        if origem == "Amazon":
-            separador = "&" if "?" in url else "?"
-            link_afiliado = f"{url}{separador}tag={TAG_AMAZON}"
-        else:
-            separador = "&" if "?" in url else "?"
-            link_afiliado = f"{url}{separador}matt_tool={TAG_MERCADO_LIVRE}"
-
-        return {
-            "id": id_produto,
-            "titulo": titulo,
-            "preco": 0.00, # Os sites exigem API paga para preço ao vivo; clique no site exibe o preço real
-            "imagem": imagem,
-            "origem": origem,
-            "nicho": nicho,
-            "link_vitrine": link_afiliado
-        }
-
-    except Exception as erro:
-        print(f"⚠️ Erro ao ler produto #{id_produto}: {erro}")
-        return None
-
-# =========================================================
-# LISTA AUTOMÁTICA DE LINKS (COLE APENAS OS LINKS DO PRODUTO AQUI)
-# =========================================================
-# Para ter 50 por nicho (200 no total), basta colar os links que você
-# quer divulgar aqui dentro da categoria correspondente:
-
-LINKS_POR_NICHO = {
-    "Tecnologia": [
-        "https://www.amazon.com.br/dp/B09B8W1V33",
-        "https://www.amazon.com.br/dp/B08C1W5N87",
-        "https://www.amazon.com.br/dp/B082PSNGN4",
-        # ... cole aqui até 50 links de Tecnologia ...
-    ],
-    "Casa": [
-        "https://www.amazon.com.br/dp/B08Q2W1X4K",
-        "https://www.amazon.com.br/dp/B07N2W1X4K",
-        # ... cole aqui até 50 links de Casa ...
-    ],
-    "Fitness": [
-        "https://www.amazon.com.br/dp/B07L5D9X5T",
-        "https://www.amazon.com.br/dp/B085V7W1QX",
-        # ... cole aqui até 50 links de Fitness ...
-    ],
-    "Pets": [
-        "https://www.amazon.com.br/dp/B07P4V8X2M",
-        "https://www.amazon.com.br/dp/B083W2V1X4",
-        # ... cole aqui até 50 links de Pets ...
-    ]
-}
-
-if __name__ == "__main__":
-    produtos_vitrine = []
+def buscar_produtos():
+    produtos = []
     id_atual = 1
-
-    print("🚀 Iniciando extração automática de fotos e títulos...")
     
-    for nicho, links in LINKS_POR_NICHO.items():
-        print(f"\n--- Processando Nicho: {nicho.upper()} ---")
-        for link in links:
-            dados = extrair_dados_automaticamente(link, nicho, id_atual)
-            if dados:
-                produtos_vitrine.append(dados)
+    for nicho, busca in NICHOS.items():
+        # Acessa o sistema do Mercado Livre pedindo 50 produtos reais
+        url = f"https://api.mercadolibre.com/sites/MLB/search?q={busca}&limit=50"
+        
+        try:
+            resposta = requests.get(url)
+            dados = resposta.json()
+            
+            for item in dados.get("results", []):
+                # Pega a foto original e garante um formato médio confiável que não quebra
+                imagem_real = item["thumbnail"].replace("http://", "https://").replace("-I.jpg", "-V.jpg")
+                link_original = item["permalink"]
+                
+                # Adiciona sua tag de comissão automaticamente
+                separador = "&" if "?" in link_original else "?"
+                link_afiliado = f"{link_original}{separador}matt_tool={TAG_MERCADO_LIVRE}"
+                
+                produtos.append({
+                    "id": id_atual,
+                    "titulo": item["title"],
+                    "preco": item["price"],
+                    "imagem": imagem_real,
+                    "origem": "Mercado Livre",
+                    "nicho": nicho,
+                    "link_vitrine": link_afiliado,
+                    "atualizado_em": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                })
                 id_atual += 1
+                
+        except Exception as e:
+            print(f"Erro ao buscar {nicho}: {e}")
+            
+    return produtos
 
-    # Salva o arquivo JSON final para o seu site
-    with open("vitrine_produtos.json", "w", encoding="utf-8") as f:
-        json.dump(produtos_vitrine, f, ensure_ascii=False, indent=2)
-
-    print(f"\n✨ SUCESSO! Arquivo 'vitrine_produtos.json' gerado com {len(produtos_vitrine)} produtos com imagens e títulos reais!")
+# Executa e salva o JSON com os 200 produtos reais
+vitrine = buscar_produtos()
+with open("vitrine_produtos.json", "w", encoding="utf-8") as f:
+    json.dump(vitrine, f, ensure_ascii=False, indent=4)
