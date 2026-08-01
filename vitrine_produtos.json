@@ -1,182 +1,218 @@
 [
-    {
-        "id": 1,
-        "titulo": "Lâmpada Inteligente Smart Wi-Fi Compatível com Alexa",
-        "preco": 69.9,
-        "imagem": "https://images.unsplash.com/photo-1550985561-0c9e3884b219?w=500&auto=format&fit=crop&q=60",
-        "origem": "Amazon",
-        "link_vitrine": "https://www.amazon.com.br/dp/EXEMPLO1?tag=032018011983-20",
-        "atualizado_em": "2026-08-01 16:39:41"
-    },
-    {
-        "id": 2,
-        "titulo": "Echo Dot 5ª Geração Caixa de Som Inteligente com Alexa",
-        "preco": 399.0,
-        "imagem": "https://images.unsplash.com/photo-1543512214-318c7553f230?w=500&auto=format&fit=crop&q=60",
-        "origem": "Amazon",
-        "link_vitrine": "https://www.amazon.com.br/dp/EXEMPLO2?tag=032018011983-20",
-        "atualizado_em": "2026-08-01 16:39:41"
-    },
-    {
-        "id": 3,
-        "titulo": "Tomada Inteligente Wi-Fi Medidor de Consumo de Energia",
-        "preco": 54.9,
-        "imagem": "https://images.unsplash.com/photo-1558089687-f282ffcbc126?w=500&auto=format&fit=crop&q=60",
-        "origem": "Mercado Livre",
-        "link_vitrine": "https://www.mercadolivre.com.br/exemplo3?matt_tool=18735177",
-        "atualizado_em": "2026-08-01 16:39:41"
-    },
-    {
-        "id": 4,
-        "titulo": "Fita LED RGB Wi-Fi Smart 5 Metros com Controle e Voz",
-        "preco": 79.9,
-        "imagem": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500&auto=format&fit=crop&q=60",
-        "origem": "Mercado Livre",
-        "link_vitrine": "https://www.mercadolivre.com.br/exemplo4?matt_tool=18735177",
-        "atualizado_em": "2026-08-01 16:39:41"
-    },
-    {
-        "id": 5,
-        "titulo": "Suporte Veicular Magnético para Smartphone com Carregador",
-        "preco": 89.9,
-        "imagem": "https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?w=500&auto=format&fit=crop&q=60",
-        "origem": "Amazon",
-        "link_vitrine": "https://www.amazon.com.br/dp/EXEMPLO5?tag=032018011983-20",
-        "atualizado_em": "2026-08-01 16:39:41"
-    },
-    {
-        "id": 6,
-        "titulo": "Creatina Monohidratada Pura 250g Suplemento Importado",
-        "preco": 89.9,
-        "imagem": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=500&auto=format&fit=crop&q=60",
-        "origem": "Amazon",
-        "link_vitrine": "https://www.amazon.com.br/dp/EXEMPLO6?tag=032018011983-20",
-        "atualizado_em": "2026-08-01 16:39:41"
-    },
-    {
-        "id": 7,
-        "titulo": "Whey Protein Concentrado 1kg Sabor Chocolate",
-        "preco": 99.9,
-        "imagem": "https://images.unsplash.com/photo-1579722820308-d74e571900a0?w=500&auto=format&fit=crop&q=60",
-        "origem": "Mercado Livre",
-        "link_vitrine": "https://www.mercadolivre.com.br/exemplo7?matt_tool=18735177",
-        "atualizado_em": "2026-08-01 16:39:41"
-    },
-    {
-        "id": 8,
-        "titulo": "Kit Faixas Elásticas Extensoras Super Band para Exercícios",
-        "preco": 49.9,
-        "imagem": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=500&auto=format&fit=crop&q=60",
-        "origem": "Amazon",
-        "link_vitrine": "https://www.amazon.com.br/dp/EXEMPLO8?tag=032018011983-20",
-        "atualizado_em": "2026-08-01 16:39:41"
-    },
-    {
-        "id": 9,
-        "titulo": "Garrafa Squeeze Motivacional 2 Litros com Alça",
-        "preco": 39.9,
-        "imagem": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=500&auto=format&fit=crop&q=60",
-        "origem": "Mercado Livre",
-        "link_vitrine": "https://www.mercadolivre.com.br/exemplo9?matt_tool=18735177",
-        "atualizado_em": "2026-08-01 16:39:41"
-    },
-    {
-        "id": 10,
-        "titulo": "Corda de Pular Profissional com Rolamento em Aço",
-        "preco": 34.9,
-        "imagem": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=500&auto=format&fit=crop&q=60",
-        "origem": "Amazon",
-        "link_vitrine": "https://www.amazon.com.br/dp/EXEMPLO10?tag=032018011983-20",
-        "atualizado_em": "2026-08-01 16:39:41"
-    },
-    {
-        "id": 11,
-        "titulo": "Fonte Bebedouro Elétrica Automática para Gatos e Cães",
-        "preco": 99.9,
-        "imagem": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=500&auto=format&fit=crop&q=60",
-        "origem": "Mercado Livre",
-        "link_vitrine": "https://www.mercadolivre.com.br/exemplo11?matt_tool=18735177",
-        "atualizado_em": "2026-08-01 16:39:41"
-    },
-    {
-        "id": 12,
-        "titulo": "Tapete Higiênico Super Absorvente para Cães 30 Unidades",
-        "preco": 59.9,
-        "imagem": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=500&auto=format&fit=crop&q=60",
-        "origem": "Amazon",
-        "link_vitrine": "https://www.amazon.com.br/dp/EXEMPLO12?tag=032018011983-20",
-        "atualizado_em": "2026-08-01 16:39:41"
-    },
-    {
-        "id": 13,
-        "titulo": "Brinquedo Interativo Comedouro Lento Pet Anti-Stress",
-        "preco": 45.0,
-        "imagem": "https://images.unsplash.com/photo-1535930891776-0c2dfb7fda1a?w=500&auto=format&fit=crop&q=60",
-        "origem": "Mercado Livre",
-        "link_vitrine": "https://www.mercadolivre.com.br/exemplo13?matt_tool=18735177",
-        "atualizado_em": "2026-08-01 16:39:41"
-    },
-    {
-        "id": 14,
-        "titulo": "Escova Remove Pelos e Subpêlos Cães e Gatos Autolimpante",
-        "preco": 29.9,
-        "imagem": "https://images.unsplash.com/photo-1548767797-d8c844163c4c?w=500&auto=format&fit=crop&q=60",
-        "origem": "Amazon",
-        "link_vitrine": "https://www.amazon.com.br/dp/EXEMPLO14?tag=032018011983-20",
-        "atualizado_em": "2026-08-01 16:39:41"
-    },
-    {
-        "id": 15,
-        "titulo": "Parafusadeira e Furadeira a Bateria 12V com Maleta e Acessórios",
-        "preco": 199.9,
-        "imagem": "https://images.unsplash.com/photo-1504148455328-c376907d081c?w=500&auto=format&fit=crop&q=60",
-        "origem": "Amazon",
-        "link_vitrine": "https://www.amazon.com.br/dp/EXEMPLO15?tag=032018011983-20",
-        "atualizado_em": "2026-08-01 16:39:41"
-    },
-    {
-        "id": 16,
-        "titulo": "Aparador de Pelos Elétrico Corporal e Barba Skincare",
-        "preco": 119.9,
-        "imagem": "https://images.unsplash.com/photo-1621607513511-96154d04655f?w=500&auto=format&fit=crop&q=60",
-        "origem": "Mercado Livre",
-        "link_vitrine": "https://www.mercadolivre.com.br/exemplo16?matt_tool=18735177",
-        "atualizado_em": "2026-08-01 16:39:41"
-    },
-    {
-        "id": 17,
-        "titulo": "Robô Aspirador de Pó Inteligente Bivolt Varre e Passa Pano",
-        "preco": 349.0,
-        "imagem": "https://images.unsplash.com/photo-1518640467707-6811f4a6ab73?w=500&auto=format&fit=crop&q=60",
-        "origem": "Amazon",
-        "link_vitrine": "https://www.amazon.com.br/dp/EXEMPLO17?tag=032018011983-20",
-        "atualizado_em": "2026-08-01 16:39:41"
-    },
-    {
-        "id": 18,
-        "titulo": "Panela Elétrica de Arroz 10 Xícaras com Bandeja para Vapor",
-        "preco": 179.9,
-        "imagem": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=500&auto=format&fit=crop&q=60",
-        "origem": "Mercado Livre",
-        "link_vitrine": "https://www.mercadolivre.com.br/exemplo18?matt_tool=18735177",
-        "atualizado_em": "2026-08-01 16:39:41"
-    },
-    {
-        "id": 19,
-        "titulo": "Air Fryer Fritadeira Sem Óleo 4 Litros Digital Antiaderente",
-        "preco": 329.9,
-        "imagem": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=500&auto=format&fit=crop&q=60",
-        "origem": "Amazon",
-        "link_vitrine": "https://www.amazon.com.br/dp/EXEMPLO19?tag=032018011983-20",
-        "atualizado_em": "2026-08-01 16:39:41"
-    },
-    {
-        "id": 20,
-        "titulo": "Mini Processador de Alimentos Elétrico USB Portátil 250ml",
-        "preco": 49.9,
-        "imagem": "https://images.unsplash.com/photo-1594385208974-2e75f8d7bb48?w=500&auto=format&fit=crop&q=60",
-        "origem": "Mercado Livre",
-        "link_vitrine": "https://www.mercadolivre.com.br/exemplo20?matt_tool=18735177",
-        "atualizado_em": "2026-08-01 16:39:41"
-    }
+  {
+    "id": 1,
+    "titulo": "Echo Dot 5ª Geração Caixa de Som Inteligente com Alexa",
+    "preco": 399.00,
+    "imagem": "https://images.unsplash.com/photo-1543512214-318c7553f230?w=500&q=80",
+    "origem": "Amazon",
+    "nicho": "Tecnologia",
+    "link_vitrine": "https://www.amazon.com.br/dp/B09B8W1V33?tag=032018011983-20"
+  },
+  {
+    "id": 2,
+    "titulo": "Lâmpada Inteligente Wi-Fi Smart Home Colorida",
+    "preco": 69.90,
+    "imagem": "https://images.unsplash.com/photo-1550985561-0c9e3884b219?w=500&q=80",
+    "origem": "Amazon",
+    "nicho": "Tecnologia",
+    "link_vitrine": "https://www.amazon.com.br/dp/B082PSNGN4?tag=032018011983-20"
+  },
+  {
+    "id": 3,
+    "titulo": "Tomada Inteligente Wi-Fi Medidora de Consumo",
+    "preco": 54.90,
+    "imagem": "https://images.unsplash.com/photo-1558089687-f282ffcbc126?w=500&q=80",
+    "origem": "Mercado Livre",
+    "nicho": "Tecnologia",
+    "link_vitrine": "https://lista.mercadolivre.com.br/tomada-inteligente-wifi?matt_tool=18735177"
+  },
+  {
+    "id": 4,
+    "titulo": "Fita LED RGB Inteligente 5 Metros Com Wi-Fi",
+    "preco": 79.90,
+    "imagem": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500&q=80",
+    "origem": "Mercado Livre",
+    "nicho": "Tecnologia",
+    "link_vitrine": "https://lista.mercadolivre.com.br/fita-led-rgb-wifi?matt_tool=18735177"
+  },
+  {
+    "id": 5,
+    "titulo": "Câmera de Segurança Wi-Fi Full HD 360 Graus",
+    "preco": 199.90,
+    "imagem": "https://images.unsplash.com/photo-1557438159-51eec7a6c9e8?w=500&q=80",
+    "origem": "Amazon",
+    "nicho": "Tecnologia",
+    "link_vitrine": "https://www.amazon.com.br/dp/B083V6KMRQ?tag=032018011983-20"
+  },
+  {
+    "id": 6,
+    "titulo": "Fechadura Digital Inteligente Biométrica",
+    "preco": 459.00,
+    "imagem": "https://images.unsplash.com/photo-1558002038-1055907df827?w=500&q=80",
+    "origem": "Mercado Livre",
+    "nicho": "Tecnologia",
+    "link_vitrine": "https://lista.mercadolivre.com.br/fechadura-digital-biometria?matt_tool=18735177"
+  },
+  {
+    "id": 7,
+    "titulo": "Robô Aspirador de Pó Inteligente Varre e Passa Pano",
+    "preco": 349.90,
+    "imagem": "https://images.unsplash.com/photo-1518640467707-6811f4a6ab73?w=500&q=80",
+    "origem": "Amazon",
+    "nicho": "Casa",
+    "link_vitrine": "https://www.amazon.com.br/dp/B08Q2W1X4K?tag=032018011983-20"
+  },
+  {
+    "id": 8,
+    "titulo": "Air Fryer Fritadeira Sem Óleo 4 Litros Digital",
+    "preco": 329.00,
+    "imagem": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=500&q=80",
+    "origem": "Mercado Livre",
+    "nicho": "Casa",
+    "link_vitrine": "https://lista.mercadolivre.com.br/air-fryer-fritadeira?matt_tool=18735177"
+  },
+  {
+    "id": 9,
+    "titulo": "Panela Elétrica de Arroz Inox 10 Xícaras",
+    "preco": 179.90,
+    "imagem": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=500&q=80",
+    "origem": "Mercado Livre",
+    "nicho": "Casa",
+    "link_vitrine": "https://lista.mercadolivre.com.br/panela-eletrica-arroz?matt_tool=18735177"
+  },
+  {
+    "id": 10,
+    "titulo": "Jogo de Panelas Antiaderentes com Tampa de Vidro",
+    "preco": 249.90,
+    "imagem": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=500&q=80",
+    "origem": "Mercado Livre",
+    "nicho": "Casa",
+    "link_vitrine": "https://lista.mercadolivre.com.br/jogo-de-panelas-antiaderente?matt_tool=18735177"
+  },
+  {
+    "id": 11,
+    "titulo": "Kit Potes de Vidro Herméticos para Mantimentos",
+    "preco": 129.90,
+    "imagem": "https://images.unsplash.com/photo-1588666579549-34ba794711fa?w=500&q=80",
+    "origem": "Mercado Livre",
+    "nicho": "Casa",
+    "link_vitrine": "https://lista.mercadolivre.com.br/potes-vidro-hermeticos?matt_tool=18735177"
+  },
+  {
+    "id": 12,
+    "titulo": "Máquina Cafeteira Expresso Multibebidas",
+    "preco": 399.00,
+    "imagem": "https://images.unsplash.com/photo-1520889248405-b040974edc55?w=500&q=80",
+    "origem": "Amazon",
+    "nicho": "Casa",
+    "link_vitrine": "https://www.amazon.com.br/dp/B07M2W1X4K?tag=032018011983-20"
+  },
+  {
+    "id": 13,
+    "titulo": "Kit Halteres Hexagonais Emborrachados de 5kg",
+    "preco": 149.90,
+    "imagem": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=500&q=80",
+    "origem": "Mercado Livre",
+    "nicho": "Fitness",
+    "link_vitrine": "https://lista.mercadolivre.com.br/halteres-emborrachados-5kg?matt_tool=18735177"
+  },
+  {
+    "id": 14,
+    "titulo": "Whey Protein Concentrado 1kg Sabor Chocolate",
+    "preco": 109.90,
+    "imagem": "https://images.unsplash.com/photo-1579722820308-d74e571900a0?w=500&q=80",
+    "origem": "Mercado Livre",
+    "nicho": "Fitness",
+    "link_vitrine": "https://lista.mercadolivre.com.br/whey-protein-concentrado?matt_tool=18735177"
+  },
+  {
+    "id": 15,
+    "titulo": "Creatina Monohidratada Pura 300g Suplemento",
+    "preco": 89.90,
+    "imagem": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=500&q=80",
+    "origem": "Amazon",
+    "nicho": "Fitness",
+    "link_vitrine": "https://www.amazon.com.br/dp/B07L5D9X5T?tag=032018011983-20"
+  },
+  {
+    "id": 16,
+    "titulo": "Kit Faixas Elásticas Extensoras Super Band",
+    "preco": 49.90,
+    "imagem": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=500&q=80",
+    "origem": "Amazon",
+    "nicho": "Fitness",
+    "link_vitrine": "https://www.amazon.com.br/dp/B07W8N7M9Z?tag=032018011983-20"
+  },
+  {
+    "id": 17,
+    "titulo": "Tapete Yoga Mat Pilates Emborrachado 10mm",
+    "preco": 79.90,
+    "imagem": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=500&q=80",
+    "origem": "Mercado Livre",
+    "nicho": "Fitness",
+    "link_vitrine": "https://lista.mercadolivre.com.br/tapete-yoga-mat-10mm?matt_tool=18735177"
+  },
+  {
+    "id": 18,
+    "titulo": "Banco de Musculação Academia Regulável",
+    "preco": 399.00,
+    "imagem": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=500&q=80",
+    "origem": "Mercado Livre",
+    "nicho": "Fitness",
+    "link_vitrine": "https://lista.mercadolivre.com.br/banco-musculacao-regulavel?matt_tool=18735177"
+  },
+  {
+    "id": 19,
+    "titulo": "Fonte Bebedouro Elétrica Automática para Pets",
+    "preco": 99.90,
+    "imagem": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=500&q=80",
+    "origem": "Mercado Livre",
+    "nicho": "Pets",
+    "link_vitrine": "https://lista.mercadolivre.com.br/fonte-bebedouro-gatos?matt_tool=18735177"
+  },
+  {
+    "id": 20,
+    "titulo": "Tapete Higiênico Super Absorvente Cães 30 Und",
+    "preco": 59.90,
+    "imagem": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=500&q=80",
+    "origem": "Amazon",
+    "nicho": "Pets",
+    "link_vitrine": "https://www.amazon.com.br/dp/B07P4V8X2M?tag=032018011983-20"
+  },
+  {
+    "id": 21,
+    "titulo": "Cama Redonda Nuvem Super Confortável Pelúcia",
+    "preco": 89.90,
+    "imagem": "https://images.unsplash.com/photo-1535930891776-0c2dfb7fda1a?w=500&q=80",
+    "origem": "Mercado Livre",
+    "nicho": "Pets",
+    "link_vitrine": "https://lista.mercadolivre.com.br/cama-nuvem-pet?matt_tool=18735177"
+  },
+  {
+    "id": 22,
+    "titulo": "Brinquedo Mordedor Interativo Anti-Stress",
+    "preco": 39.90,
+    "imagem": "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?w=500&q=80",
+    "origem": "Mercado Livre",
+    "nicho": "Pets",
+    "link_vitrine": "https://lista.mercadolivre.com.br/brinquedo-interativo-pet?matt_tool=18735177"
+  },
+  {
+    "id": 23,
+    "titulo": "Escova Remove Pelos e Subpêlos Autolimpante",
+    "preco": 29.90,
+    "imagem": "https://images.unsplash.com/photo-1548767797-d8c844163c4c?w=500&q=80",
+    "origem": "Amazon",
+    "nicho": "Pets",
+    "link_vitrine": "https://www.amazon.com.br/dp/B07X9W1M5K?tag=032018011983-20"
+  },
+  {
+    "id": 24,
+    "titulo": "Coleira Peitoral com Guia Resistente Antipuxão",
+    "preco": 49.90,
+    "imagem": "https://images.unsplash.com/photo-1601758174114-e711c0cbaa69?w=500&q=80",
+    "origem": "Mercado Livre",
+    "nicho": "Pets",
+    "link_vitrine": "https://lista.mercadolivre.com.br/coleira-peitoral-guia?matt_tool=18735177"
+  }
 ]
