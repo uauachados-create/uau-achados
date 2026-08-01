@@ -1,12 +1,9 @@
-name: Atualizar Vitrine UAU Achados
+name: Apenas Hospedar Site
 
 on:
-  schedule:
-    - cron: '0 9 * * *'
+  push:
+    branches: [ main ]
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   build:
@@ -14,19 +11,3 @@ jobs:
     steps:
       - name: Copiar código do repositório
         uses: actions/checkout@v4
-
-      - name: Configurar o Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Executar o robô de atualização
-        run: python gerador_vitrine.py
-
-      - name: Configurar identidade do Git e enviar alterações
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add vitrine_produtos.json
-          git commit -m "🤖 Robô: Vitrine de achados atualizada automaticamente" || echo "Sem alterações para commitar"
-          git push origin main
