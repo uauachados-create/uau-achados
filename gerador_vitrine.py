@@ -80,7 +80,7 @@ produtos_nichos = [
     },
     {
         "id": 9,
-        "titulo": "Garrafa Squeeze אנרגיה Motivacional 2 Litros com Alça",
+        "titulo": "Garrafa Squeeze Motivacional 2 Litros com Alça",
         "preco_atual": 39.90,
         "imagem": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=500&auto=format&fit=crop&q=60",
         "origem": "Mercado Livre",
@@ -114,7 +114,7 @@ produtos_nichos = [
     },
     {
         "id": 13,
-        "titulo": "Brinquedo Interativo Comedouros Lento Pet Anti-Stress",
+        "titulo": "Brinquedo Interativo Comedouro Lento Pet Anti-Stress",
         "preco_atual": 45.00,
         "imagem": "https://images.unsplash.com/photo-1535930891776-0c2dfb7fda1a?w=500&auto=format&fit=crop&q=60",
         "origem": "Mercado Livre",
