@@ -14,8 +14,6 @@ jobs:
     steps:
       - name: Copiar código do repositório
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Configurar o Python
         uses: actions/setup-python@v5
@@ -25,9 +23,10 @@ jobs:
       - name: Executar o robô de atualização
         run: python gerador_vitrine.py
 
-      - name: Sincronizar com o repositório e enviar alterações
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "🤖 Robô: Vitrine de achados atualizada automaticamente"
-          branch: main
-          push_options: '--force'
+      - name: Configurar identidade do Git e enviar alterações
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add vitrine_produtos.json
+          git commit -m "🤖 Robô: Vitrine de achados atualizada automaticamente" || echo "Sem alterações para commitar"
+          git push origin main
