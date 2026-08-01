@@ -1,1 +1,272 @@
-[]
+[][
+  {
+    "id": 1,
+    "titulo": "Fechadura Digital Inteligente Intelbras",
+    "preco": 459.00,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_709562-MLB53944640103_022023-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Casa Inteligente",
+    "link_vitrine": "https://lista.mercadolivre.com.br/fechadura-digital-intelbras?matt_tool=18735177"
+  },
+  {
+    "id": 2,
+    "titulo": "Lâmpada Inteligente Smart Home Wi-fi",
+    "preco": 45.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_911578-MLU73215206253_122023-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Casa Inteligente",
+    "link_vitrine": "https://lista.mercadolivre.com.br/lampada-inteligente-smart-home?matt_tool=18735177"
+  },
+  {
+    "id": 3,
+    "titulo": "Tomada Inteligente Wi-fi 16a Com Medidor",
+    "preco": 59.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_813735-MLB51430030588_092022-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Casa Inteligente",
+    "link_vitrine": "https://lista.mercadolivre.com.br/tomada-inteligente-wifi-16a?matt_tool=18735177"
+  },
+  {
+    "id": 4,
+    "titulo": "Interruptor Inteligente Wi-fi Touch 3 Teclas",
+    "preco": 99.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_913506-MLB49176313437_022022-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Casa Inteligente",
+    "link_vitrine": "https://lista.mercadolivre.com.br/interruptor-inteligente-wifi?matt_tool=18735177"
+  },
+  {
+    "id": 5,
+    "titulo": "Fita Led Inteligente Rgb Wifi 5 Metros",
+    "preco": 85.00,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_709772-MLU72688085444_112023-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Casa Inteligente",
+    "link_vitrine": "https://lista.mercadolivre.com.br/fita-led-inteligente-rgb-wifi?matt_tool=18735177"
+  },
+  {
+    "id": 6,
+    "titulo": "Câmera De Segurança Wi-fi 360 Full Hd",
+    "preco": 149.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_985870-MLB52538183113_112022-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Casa Inteligente",
+    "link_vitrine": "https://lista.mercadolivre.com.br/camera-de-seguranca-wifi-360?matt_tool=18735177"
+  },
+  {
+    "id": 7,
+    "titulo": "Kit Limpeza De Pele Profissional Skincare",
+    "preco": 120.00,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_978809-MLB71790407736_092023-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Beleza & Skincare",
+    "link_vitrine": "https://lista.mercadolivre.com.br/kit-limpeza-de-pele-skincare?matt_tool=18735177"
+  },
+  {
+    "id": 8,
+    "titulo": "Sérum Facial Vitamina C Anti-idade Clareador",
+    "preco": 65.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_754714-MLB46618585489_072021-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Beleza & Skincare",
+    "link_vitrine": "https://lista.mercadolivre.com.br/serum-facial-vitamina-c?matt_tool=18735177"
+  },
+  {
+    "id": 9,
+    "titulo": "Massageador Facial Jade Roller Original",
+    "preco": 35.00,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_897551-MLB50024467142_052022-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Beleza & Skincare",
+    "link_vitrine": "https://lista.mercadolivre.com.br/massageador-facial-jade-roller?matt_tool=18735177"
+  },
+  {
+    "id": 10,
+    "titulo": "Máscara De Argila Verde Para Skincare",
+    "preco": 42.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_824795-MLB42971257451_082020-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Beleza & Skincare",
+    "link_vitrine": "https://lista.mercadolivre.com.br/mascara-de-argila-verde?matt_tool=18735177"
+  },
+  {
+    "id": 11,
+    "titulo": "Esponja Elétrica Limpeza Facial Massagem",
+    "preco": 28.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_910543-MLB47913309228_102021-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Beleza & Skincare",
+    "link_vitrine": "https://lista.mercadolivre.com.br/esponja-eletrica-limpeza-facial?matt_tool=18735177"
+  },
+  {
+    "id": 12,
+    "titulo": "Kit Skincare Ácido Hialurônico Hidratação",
+    "preco": 99.00,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_635299-MLU73665300615_122023-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Beleza & Skincare",
+    "link_vitrine": "https://lista.mercadolivre.com.br/kit-skincare-acido-hialuronico?matt_tool=18735177"
+  },
+  {
+    "id": 13,
+    "titulo": "Kit Halteres Hexagonais Emborrachados 5kg",
+    "preco": 159.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_616428-MLB47683955610_092021-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Fitness & Office",
+    "link_vitrine": "https://lista.mercadolivre.com.br/kit-halteres-hexagonais-emborrachados-5kg?matt_tool=18735177"
+  },
+  {
+    "id": 14,
+    "titulo": "Whey Protein Concentrado 1kg Sabor Chocolate",
+    "preco": 119.00,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_736658-MLB54245997864_032023-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Fitness & Office",
+    "link_vitrine": "https://lista.mercadolivre.com.br/whey-protein-concentrado-1kg?matt_tool=18735177"
+  },
+  {
+    "id": 15,
+    "titulo": "Kit Faixas Elásticas Extensoras Super Band",
+    "preco": 55.00,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_897148-MLB48450125816_122021-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Fitness & Office",
+    "link_vitrine": "https://lista.mercadolivre.com.br/kit-faixas-elasticas-extensoras?matt_tool=18735177"
+  },
+  {
+    "id": 16,
+    "titulo": "Tapete Yoga Mat Pilates Emborrachado",
+    "preco": 48.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_686161-MLB46973685324_082021-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Fitness & Office",
+    "link_vitrine": "https://lista.mercadolivre.com.br/tapete-yoga-mat-pilates?matt_tool=18735177"
+  },
+  {
+    "id": 17,
+    "titulo": "Cadeira De Escritório Ergonômica Presidente",
+    "preco": 450.00,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_717208-MLU72648719277_112023-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Fitness & Office",
+    "link_vitrine": "https://lista.mercadolivre.com.br/cadeira-de-escritorio-ergonomica?matt_tool=18735177"
+  },
+  {
+    "id": 18,
+    "titulo": "Suporte Para Notebook Ajustável Articulado",
+    "preco": 39.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_841773-MLB45610810452_042021-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Fitness & Office",
+    "link_vitrine": "https://lista.mercadolivre.com.br/suporte-para-notebook-ajustavel?matt_tool=18735177"
+  },
+  {
+    "id": 19,
+    "titulo": "Fonte Bebedouro Automática Para Gatos E Cães",
+    "preco": 95.00,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_910793-MLB51016839886_082022-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Pets",
+    "link_vitrine": "https://lista.mercadolivre.com.br/fonte-bebedouro-automatica-gatos?matt_tool=18735177"
+  },
+  {
+    "id": 20,
+    "titulo": "Tapete Higiênico Super Absorvente Cães 30 Un",
+    "preco": 55.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_616556-MLB49176313589_022022-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Pets",
+    "link_vitrine": "https://lista.mercadolivre.com.br/tapete-higienico-caes-30-un?matt_tool=18735177"
+  },
+  {
+    "id": 21,
+    "titulo": "Cama Pet Nuvem Redonda Anti-stress",
+    "preco": 69.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_917326-MLU72688085614_112023-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Pets",
+    "link_vitrine": "https://lista.mercadolivre.com.br/cama-pet-nuvem-redonda?matt_tool=18735177"
+  },
+  {
+    "id": 22,
+    "titulo": "Brinquedo Interativo Arranhador Para Gatos",
+    "preco": 85.00,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_943063-MLB53944640410_022023-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Pets",
+    "link_vitrine": "https://lista.mercadolivre.com.br/brinquedo-arranhador-gatos?matt_tool=18735177"
+  },
+  {
+    "id": 23,
+    "titulo": "Escova Tira Pelos E Subpelos Autolimpante Pet",
+    "preco": 32.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_789456-MLB51430030799_092022-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Pets",
+    "link_vitrine": "https://lista.mercadolivre.com.br/escova-tira-pelos-autolimpante-pet?matt_tool=18735177"
+  },
+  {
+    "id": 24,
+    "titulo": "Caixa De Transporte N°1 Para Cães E Gatos",
+    "preco": 48.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_995642-MLB46618585698_072021-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Pets",
+    "link_vitrine": "https://lista.mercadolivre.com.br/caixa-transporte-caes-gatos?matt_tool=18735177"
+  },
+  {
+    "id": 25,
+    "titulo": "Maleta De Ferramentas Completa 129 Peças",
+    "preco": 139.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_786523-MLU73215206456_122023-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Ferramentas",
+    "link_vitrine": "https://lista.mercadolivre.com.br/maleta-ferramentas-129-pecas?matt_tool=18735177"
+  },
+  {
+    "id": 26,
+    "titulo": "Parafusadeira E Furadeira A Bateria 12v Bivolt",
+    "preco": 169.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_897542-MLB50024467355_052022-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Ferramentas",
+    "link_vitrine": "https://lista.mercadolivre.com.br/parafusadeira-furadeira-12v?matt_tool=18735177"
+  },
+  {
+    "id": 27,
+    "titulo": "Kit Jogo De Chaves De Fenda E Phillips 6 Peças",
+    "preco": 45.00,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_612345-MLB47913309444_102021-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Ferramentas",
+    "link_vitrine": "https://lista.mercadolivre.com.br/jogo-chaves-fenda-phillips?matt_tool=18735177"
+  },
+  {
+    "id": 28,
+    "titulo": "Trena A Laser Digital Medidor 40 Metros",
+    "preco": 95.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_734299-MLU73665300822_122023-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Ferramentas",
+    "link_vitrine": "https://lista.mercadolivre.com.br/trena-laser-digital?matt_tool=18735177"
+  },
+  {
+    "id": 29,
+    "titulo": "Kit Chaves De Precisão Celular Notebook 31 Peças",
+    "preco": 25.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_813735-MLB51430030588_092022-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Ferramentas",
+    "link_vitrine": "https://lista.mercadolivre.com.br/kit-chaves-precisao?matt_tool=18735177"
+  },
+  {
+    "id": 30,
+    "titulo": "Jogo Chave Cachimbo Soquete Estojo 40 Peças",
+    "preco": 59.90,
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_913506-MLB49176313437_022022-V.jpg",
+    "origem": "Mercado Livre",
+    "nicho": "Ferramentas",
+    "link_vitrine": "https://lista.mercadolivre.com.br/jogo-chave-soquete?matt_tool=18735177"
+  }
+]
