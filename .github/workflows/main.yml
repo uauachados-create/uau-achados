@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Copiar código do repositório
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Configurar o Python
         uses: actions/setup-python@v5
@@ -23,8 +25,9 @@ jobs:
       - name: Executar o robô de atualização
         run: python gerador_vitrine.py
 
-      - name: Salvar e atualizar o site automaticamente
+      - name: Sincronizar com o repositório e enviar alterações
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "🤖 Robô: Vitrine de achados atualizada automaticamente"
           branch: main
+          push_options: '--force'
