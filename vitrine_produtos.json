@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "nome": "Processador Intel Core i5-10400",
+    "categoria": "Hardware",
+    "preco": 187.5,
+    "preco_antigo": 240.0,
+    "imagem": "img/hardware-1.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000001?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 2,
+    "nome": "Placa Mãe ASUS TUF Gaming B460M-PLUS",
+    "categoria": "Hardware",
+    "preco": 225.0,
+    "preco_antigo": 280.0,
+    "imagem": "img/hardware-2.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD002?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 3,
+    "nome": "Fonte Corsair CX550 550W",
+    "categoria": "Hardware",
+    "preco": 262.5,
+    "preco_antigo": 320.0,
+    "imagem": "img/hardware-3.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000003?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 4,
+    "nome": "Placa de Vídeo NVIDIA RTX 4060 8GB",
+    "categoria": "Hardware",
+    "preco": 300.0,
+    "preco_antigo": 360.0,
+    "imagem": "img/hardware-4.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD004?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 5,
+    "nome": "Memória RAM Corsair Vengeance RGB Pro 16GB 3200MHz",
+    "categoria": "Hardware",
+    "preco": 337.5,
+    "preco_antigo": 400.0,
+    "imagem": "img/hardware-5.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000005?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 6,
+    "nome": "SSD Kingston NV2 1TB NVMe M.2",
+    "categoria": "Hardware",
+    "preco": 375.0,
+    "preco_antigo": 440.0,
+    "imagem": "img/hardware-6.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD006?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 7,
+    "nome": "Processador AMD Ryzen 5 5600X",
+    "categoria": "Hardware",
+    "preco": 412.5,
+    "preco_antigo": 480.0,
+    "imagem": "img/hardware-7.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000007?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 8,
+    "nome": "Placa Mãe MSI B550M PRO-VDH WIFI",
+    "categoria": "Hardware",
+    "preco": 450.0,
+    "preco_antigo": 520.0,
+    "imagem": "img/hardware-8.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD008?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 9,
+    "nome": "Gabinete Gamer Cooler Master MasterBox Q300L",
+    "categoria": "Hardware",
+    "preco": 487.5,
+    "preco_antigo": 560.0,
+    "imagem": "img/hardware-9.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000009?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 10,
+    "nome": "Water Cooler Deepcool Gammaxx L240 V2",
+    "categoria": "Hardware",
+    "preco": 525.0,
+    "preco_antigo": 600.0,
+    "imagem": "img/hardware-10.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD010?tag=uauachados-20",
+    "destaque": true
+  },
+  {
+    "id": 11,
+    "nome": "Placa de Vídeo AMD Radeon RX 7600 8GB",
+    "categoria": "Hardware",
+    "preco": 562.5,
+    "preco_antigo": 640.0,
+    "imagem": "img/hardware-11.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000011?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 12,
+    "nome": "Memória RAM Kingston Fury Beast 8GB 3200MHz",
+    "categoria": "Hardware",
+    "preco": 600.0,
+    "preco_antigo": 680.0,
+    "imagem": "img/hardware-12.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD012?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 13,
+    "nome": "SSD Crucial P3 500GB NVMe M.2",
+    "categoria": "Hardware",
+    "preco": 637.5,
+    "preco_antigo": 720.0,
+    "imagem": "img/hardware-13.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000013?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 14,
+    "nome": "Processador Intel Core i7-12700K",
+    "categoria": "Hardware",
+    "preco": 675.0,
+    "preco_antigo": 760.0,
+    "imagem": "img/hardware-14.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD014?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 15,
+    "nome": "Placa Mãe Gigabyte B650M DS3H",
+    "categoria": "Hardware",
+    "preco": 712.5,
+    "preco_antigo": 800.0,
+    "imagem": "img/hardware-15.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000015?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 16,
+    "nome": "Fonte XPG Pylon 650W 80 Plus Bronze",
+    "categoria": "Hardware",
+    "preco": 750.0,
+    "preco_antigo": 840.0,
+    "imagem": "img/hardware-16.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD016?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 17,
+    "nome": "Placa de Vídeo NVIDIA RTX 4070 12GB",
+    "categoria": "Hardware",
+    "preco": 787.5,
+    "preco_antigo": 880.0,
+    "imagem": "img/hardware-17.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000017?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 18,
+    "nome": "Memória RAM XPG Spectrix D41 16GB",
+    "categoria": "Hardware",
+    "preco": 825.0,
+    "preco_antigo": 920.0,
+    "imagem": "img/hardware-18.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD018?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 19,
+    "nome": "SSD Samsung 990 PRO 2TB NVMe M.2",
+    "categoria": "Hardware",
+    "preco": 862.5,
+    "preco_antigo": 960.0,
+    "imagem": "img/hardware-19.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000019?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 20,
+    "nome": "Processador AMD Ryzen 7 7700X",
+    "categoria": "Hardware",
+    "preco": 900.0,
+    "preco_antigo": 1000.0,
+    "imagem": "img/hardware-20.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD020?tag=uauachados-20",
+    "destaque": true
+  },
+  {
+    "id": 21,
+    "nome": "Placa Mãe ASUS Prime H610M-E D4",
+    "categoria": "Hardware",
+    "preco": 937.5,
+    "preco_antigo": 1040.0,
+    "imagem": "img/hardware-21.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000021?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 22,
+    "nome": "Fonte MSI MAG A650BN 650W",
+    "categoria": "Hardware",
+    "preco": 975.0,
+    "preco_antigo": 1080.0,
+    "imagem": "img/hardware-22.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD022?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 23,
+    "nome": "Placa de Vídeo AMD Radeon RX 7800 XT 16GB",
+    "categoria": "Hardware",
+    "preco": 1012.5,
+    "preco_antigo": 1120.0,
+    "imagem": "img/hardware-23.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000023?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 24,
+    "nome": "Teclado Mecânico Gamer Redragon Kumara",
+    "categoria": "Hardware",
+    "preco": 1050.0,
+    "preco_antigo": 1160.0,
+    "imagem": "img/hardware-24.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD024?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 25,
+    "nome": "Mouse Gamer Logitech G205 Lightsync",
+    "categoria": "Hardware",
+    "preco": 1087.5,
+    "preco_antigo": 1200.0,
+    "imagem": "img/hardware-25.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000025?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 26,
+    "nome": "Headset Gamer HyperX Cloud Stinger 2",
+    "categoria": "Hardware",
+    "preco": 1125.0,
+    "preco_antigo": 1240.0,
+    "imagem": "img/hardware-26.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD026?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 27,
+    "nome": "Monitor Gamer LG UltraGear 27\" 144Hz",
+    "categoria": "Hardware",
+    "preco": 1162.5,
+    "preco_antigo": 1280.0,
+    "imagem": "img/hardware-27.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000027?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 28,
+    "nome": "Monitor Gamer AOC Hero 24\" 144Hz",
+    "categoria": "Hardware",
+    "preco": 1200.0,
+    "preco_antigo": 1320.0,
+    "imagem": "img/hardware-28.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD028?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 29,
+    "nome": "Cooler para Processador Cooler Master Hyper 212",
+    "categoria": "Hardware",
+    "preco": 1237.5,
+    "preco_antigo": 1360.0,
+    "imagem": "img/hardware-29.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000029?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 30,
+    "nome": "Pasta Térmica Arctic MX-4 4g",
+    "categoria": "Hardware",
+    "preco": 1275.0,
+    "preco_antigo": 1400.0,
+    "imagem": "img/hardware-30.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD030?tag=uauachados-20",
+    "destaque": true
+  },
+  {
+    "id": 31,
+    "nome": "Placa de Vídeo NVIDIA RTX 4090 24GB",
+    "categoria": "Hardware",
+    "preco": 1312.5,
+    "preco_antigo": 1440.0,
+    "imagem": "img/hardware-31.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000031?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 32,
+    "nome": "Processador Intel Core i9-14900K",
+    "categoria": "Hardware",
+    "preco": 1350.0,
+    "preco_antigo": 1480.0,
+    "imagem": "img/hardware-32.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD032?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 33,
+    "nome": "Placa Mãe ASUS ROG Strix Z790-E",
+    "categoria": "Hardware",
+    "preco": 1387.5,
+    "preco_antigo": 1520.0,
+    "imagem": "img/hardware-33.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000033?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 34,
+    "nome": "Fonte Corsair RM850x 850W 80 Plus Gold",
+    "categoria": "Hardware",
+    "preco": 1425.0,
+    "preco_antigo": 1560.0,
+    "imagem": "img/hardware-34.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD034?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 35,
+    "nome": "Memória RAM Corsair Dominator Platinum 32GB 5600MHz",
+    "categoria": "Hardware",
+    "preco": 1462.5,
+    "preco_antigo": 1600.0,
+    "imagem": "img/hardware-35.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000035?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 36,
+    "nome": "SSD WD Black SN850X 1TB",
+    "categoria": "Hardware",
+    "preco": 1500.0,
+    "preco_antigo": 1640.0,
+    "imagem": "img/hardware-36.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD036?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 37,
+    "nome": "Gabinete Lian Li O11 Dynamic EVO",
+    "categoria": "Hardware",
+    "preco": 1537.5,
+    "preco_antigo": 1680.0,
+    "imagem": "img/hardware-37.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000037?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 38,
+    "nome": "Water Cooler NZXT Kraken X63",
+    "categoria": "Hardware",
+    "preco": 1575.0,
+    "preco_antigo": 1720.0,
+    "imagem": "img/hardware-38.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD038?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 39,
+    "nome": "Placa de Vídeo AMD Radeon RX 7900 XTX",
+    "categoria": "Hardware",
+    "preco": 1612.5,
+    "preco_antigo": 1760.0,
+    "imagem": "img/hardware-39.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000039?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 40,
+    "nome": "Processador AMD Ryzen 9 7950X3D",
+    "categoria": "Hardware",
+    "preco": 1650.0,
+    "preco_antigo": 1800.0,
+    "imagem": "img/hardware-40.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD040?tag=uauachados-20",
+    "destaque": true
+  },
+  {
+    "id": 41,
+    "nome": "Placa Mãe ASUS TUF Gaming X670E-PLUS",
+    "categoria": "Hardware",
+    "preco": 1687.5,
+    "preco_antigo": 1840.0,
+    "imagem": "img/hardware-41.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000041?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 42,
+    "nome": "Fonte ASUS ROG Thor 1000W Platinum",
+    "categoria": "Hardware",
+    "preco": 1725.0,
+    "preco_antigo": 1880.0,
+    "imagem": "img/hardware-42.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD042?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 43,
+    "nome": "Memória RAM G.Skill Trident Z5 32GB",
+    "categoria": "Hardware",
+    "preco": 1762.5,
+    "preco_antigo": 1920.0,
+    "imagem": "img/hardware-43.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000043?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 44,
+    "nome": "SSD SanDisk Extreme 1TB Portable",
+    "categoria": "Hardware",
+    "preco": 1800.0,
+    "preco_antigo": 1960.0,
+    "imagem": "img/hardware-44.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD044?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 45,
+    "nome": "Placa de Captura Elgato HD60 X",
+    "categoria": "Hardware",
+    "preco": 1837.5,
+    "preco_antigo": 2000.0,
+    "imagem": "img/hardware-45.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000045?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 46,
+    "nome": "Microfone HyperX QuadCast S",
+    "categoria": "Hardware",
+    "preco": 1875.0,
+    "preco_antigo": 2040.0,
+    "imagem": "img/hardware-46.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD046?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 47,
+    "nome": "Webcam Logitech C920s HD Pro",
+    "categoria": "Hardware",
+    "preco": 1912.5,
+    "preco_antigo": 2080.0,
+    "imagem": "img/hardware-47.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000047?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 48,
+    "nome": "Roteador Wi-Fi 6 ASUS RT-AX82U",
+    "categoria": "Hardware",
+    "preco": 1950.0,
+    "preco_antigo": 2120.0,
+    "imagem": "img/hardware-48.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD048?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 49,
+    "nome": "No-Break APC Back-UPS 1500VA",
+    "categoria": "Hardware",
+    "preco": 1987.5,
+    "preco_antigo": 2160.0,
+    "imagem": "img/hardware-49.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000049?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 50,
+    "nome": "Placa de Som Sound Blaster AE-5 Plus",
+    "categoria": "Hardware",
+    "preco": 2025.0,
+    "preco_antigo": 2200.0,
+    "imagem": "img/hardware-50.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD050?tag=uauachados-20",
+    "destaque": true
+  },
+  {
+    "id": 51,
+    "nome": "Creatina Monohidratada 250g Growth",
+    "categoria": "Suplementos",
+    "preco": 120.2,
+    "preco_antigo": 78.0,
+    "imagem": "img/suplemento-51.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000051?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 52,
+    "nome": "Whey Protein Concentrado 1kg Max Titanium",
+    "categoria": "Suplementos",
+    "preco": 135.4,
+    "preco_antigo": 96.0,
+    "imagem": "img/suplemento-52.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD052?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 53,
+    "nome": "Omega 3 Fish Oil 1000mg 120 Caps",
+    "categoria": "Suplementos",
+    "preco": 150.6,
+    "preco_antigo": 114.0,
+    "imagem": "img/suplemento-53.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000053?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 54,
+    "nome": "Multivitamínico Daily 90 Tabs Growth",
+    "categoria": "Suplementos",
+    "preco": 165.8,
+    "preco_antigo": 132.0,
+    "imagem": "img/suplemento-54.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD054?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 55,
+    "nome": "Pré-Treino Hórus 300g Max Titanium",
+    "categoria": "Suplementos",
+    "preco": 181.0,
+    "preco_antigo": 150.0,
+    "imagem": "img/suplemento-55.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000055?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 56,
+    "nome": "BCAA 2400 120 Caps Probiótica",
+    "categoria": "Suplementos",
+    "preco": 196.2,
+    "preco_antigo": 168.0,
+    "imagem": "img/suplemento-56.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD056?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 57,
+    "nome": "Glutamina 250g Universal Nutrition",
+    "categoria": "Suplementos",
+    "preco": 211.4,
+    "preco_antigo": 186.0,
+    "imagem": "img/suplemento-57.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000057?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 58,
+    "nome": "Albumina Saltos 500g",
+    "categoria": "Suplementos",
+    "preco": 226.6,
+    "preco_antigo": 204.0,
+    "imagem": "img/suplemento-58.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD058?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 59,
+    "nome": "Hipercalórico Mass 3200 3kg",
+    "categoria": "Suplementos",
+    "preco": 241.8,
+    "preco_antigo": 222.0,
+    "imagem": "img/suplemento-59.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000059?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 60,
+    "nome": "ZMA 120 Cápsulas Max Titanium",
+    "categoria": "Suplementos",
+    "preco": 257.0,
+    "preco_antigo": 240.0,
+    "imagem": "img/suplemento-60.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD060?tag=uauachados-20",
+    "destaque": true
+  },
+  {
+    "id": 61,
+    "nome": "Vitamina D3 2000UI 60 Caps",
+    "categoria": "Suplementos",
+    "preco": 272.2,
+    "preco_antigo": 258.0,
+    "imagem": "img/suplemento-61.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000061?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 62,
+    "nome": "Colágeno Hidrolisado 300g",
+    "categoria": "Suplementos",
+    "preco": 287.4,
+    "preco_antigo": 276.0,
+    "imagem": "img/suplemento-62.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD062?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 63,
+    "nome": "Termogênico L-Carnitina 2000 480ml",
+    "categoria": "Suplementos",
+    "preco": 302.6,
+    "preco_antigo": 294.0,
+    "imagem": "img/suplemento-63.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000063?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 64,
+    "nome": "Beta-Alanina 200g Max Titanium",
+    "categoria": "Suplementos",
+    "preco": 317.8,
+    "preco_antigo": 312.0,
+    "imagem": "img/suplemento-64.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD064?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 65,
+    "nome": "Barra de Cereal Proteica Prot Bar (Cx 12)",
+    "categoria": "Suplementos",
+    "preco": 333.0,
+    "preco_antigo": 330.0,
+    "imagem": "img/suplemento-65.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000065?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 66,
+    "nome": "Óleo de Cártamo 120 Cápsulas",
+    "categoria": "Suplementos",
+    "preco": 348.2,
+    "preco_antigo": 348.0,
+    "imagem": "img/suplemento-66.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD066?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 67,
+    "nome": "Chá Verde em Pó 200g",
+    "categoria": "Suplementos",
+    "preco": 363.4,
+    "preco_antigo": 366.0,
+    "imagem": "img/suplemento-67.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000067?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 68,
+    "nome": "Melatonina 0,21mg 60 Comprimidos",
+    "categoria": "Suplementos",
+    "preco": 378.6,
+    "preco_antigo": 384.0,
+    "imagem": "img/suplemento-68.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD068?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 69,
+    "nome": "Vitamina C 1g Efervescente 20 Comp",
+    "categoria": "Suplementos",
+    "preco": 393.8,
+    "preco_antigo": 402.0,
+    "imagem": "img/suplemento-69.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000069?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 70,
+    "nome": "Magnesio Dimalato 60 Caps",
+    "categoria": "Suplementos",
+    "preco": 59.0,
+    "preco_antigo": 420.0,
+    "imagem": "img/suplemento-70.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD070?tag=uauachados-20",
+    "destaque": true
+  },
+  {
+    "id": 71,
+    "nome": "Coenzima Q10 100mg 30 Caps",
+    "categoria": "Suplementos",
+    "preco": 74.2,
+    "preco_antigo": 438.0,
+    "imagem": "img/suplemento-71.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000071?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 72,
+    "nome": "Arginina 100g Pure",
+    "categoria": "Suplementos",
+    "preco": 89.4,
+    "preco_antigo": 456.0,
+    "imagem": "img/suplemento-72.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD072?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 73,
+    "nome": "Citrulina Malato 200g",
+    "categoria": "Suplementos",
+    "preco": 104.6,
+    "preco_antigo": 474.0,
+    "imagem": "img/suplemento-73.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000073?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 74,
+    "nome": "Dextrose 1kg",
+    "categoria": "Suplementos",
+    "preco": 119.8,
+    "preco_antigo": 492.0,
+    "imagem": "img/suplemento-74.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD074?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 75,
+    "nome": "Maltodextrina 1kg",
+    "categoria": "Suplementos",
+    "preco": 135.0,
+    "preco_antigo": 60.0,
+    "imagem": "img/suplemento-75.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000075?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 76,
+    "nome": "Waxy Maize 1kg",
+    "categoria": "Suplementos",
+    "preco": 150.2,
+    "preco_antigo": 78.0,
+    "imagem": "img/suplemento-76.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD076?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 77,
+    "nome": "Iso Whey 900g Probiótica",
+    "categoria": "Suplementos",
+    "preco": 165.4,
+    "preco_antigo": 96.0,
+    "imagem": "img/suplemento-77.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000077?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 78,
+    "nome": "Hydro Whey 1.8kg Optimum Nutrition",
+    "categoria": "Suplementos",
+    "preco": 180.6,
+    "preco_antigo": 114.0,
+    "imagem": "img/suplemento-78.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD078?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 79,
+    "nome": "Gold Standard 100% Whey 900g ON",
+    "categoria": "Suplementos",
+    "preco": 195.8,
+    "preco_antigo": 132.0,
+    "imagem": "img/suplemento-79.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000079?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 80,
+    "nome": "Creatina Creapure 300g Max Titanium",
+    "categoria": "Suplementos",
+    "preco": 211.0,
+    "preco_antigo": 150.0,
+    "imagem": "img/suplemento-80.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD080?tag=uauachados-20",
+    "destaque": true
+  },
+  {
+    "id": 81,
+    "nome": "Super Albumin 500g",
+    "categoria": "Suplementos",
+    "preco": 226.2,
+    "preco_antigo": 168.0,
+    "imagem": "img/suplemento-81.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000081?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 82,
+    "nome": "BCAA Powder 300g Scivation",
+    "categoria": "Suplementos",
+    "preco": 241.4,
+    "preco_antigo": 186.0,
+    "imagem": "img/suplemento-82.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD082?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 83,
+    "nome": "Carnitina Liquid 480ml",
+    "categoria": "Suplementos",
+    "preco": 256.6,
+    "preco_antigo": 204.0,
+    "imagem": "img/suplemento-83.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000083?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 84,
+    "nome": "ZMA Optimum Nutrition 90 Caps",
+    "categoria": "Suplementos",
+    "preco": 271.8,
+    "preco_antigo": 222.0,
+    "imagem": "img/suplemento-84.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD084?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 85,
+    "nome": "Vitamina B12 Metilcobalamina 60 Caps",
+    "categoria": "Suplementos",
+    "preco": 287.0,
+    "preco_antigo": 240.0,
+    "imagem": "img/suplemento-85.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000085?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 86,
+    "nome": "Ashwagandha 500mg 60 Caps",
+    "categoria": "Suplementos",
+    "preco": 302.2,
+    "preco_antigo": 258.0,
+    "imagem": "img/suplemento-86.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD086?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 87,
+    "nome": "Tribulus Terrestris 1000mg 120 Caps",
+    "categoria": "Suplementos",
+    "preco": 317.4,
+    "preco_antigo": 276.0,
+    "imagem": "img/suplemento-87.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000087?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 88,
+    "nome": "Ginseng Coreano 60 Caps",
+    "categoria": "Suplementos",
+    "preco": 332.6,
+    "preco_antigo": 294.0,
+    "imagem": "img/suplemento-88.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD088?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 89,
+    "nome": "Curcuma Longa (Curcumina) 60 Caps",
+    "categoria": "Suplementos",
+    "preco": 347.8,
+    "preco_antigo": 312.0,
+    "imagem": "img/suplemento-89.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000089?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 90,
+    "nome": "Ômega 3 Concentrado 120 Caps Essential",
+    "categoria": "Suplementos",
+    "preco": 363.0,
+    "preco_antigo": 330.0,
+    "imagem": "img/suplemento-90.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD090?tag=uauachados-20",
+    "destaque": true
+  },
+  {
+    "id": 91,
+    "nome": "Pack de Vitaminas Animal Pak Universal",
+    "categoria": "Suplementos",
+    "preco": 378.2,
+    "preco_antigo": 348.0,
+    "imagem": "img/suplemento-91.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000091?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 92,
+    "nome": "Palatinose 300g",
+    "categoria": "Suplementos",
+    "preco": 393.4,
+    "preco_antigo": 366.0,
+    "imagem": "img/suplemento-92.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD092?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 93,
+    "nome": "Probiótico 10 Bilhões UFC 30 Caps",
+    "categoria": "Suplementos",
+    "preco": 58.6,
+    "preco_antigo": 384.0,
+    "imagem": "img/suplemento-93.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000093?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 94,
+    "nome": "Psyllium Husk 500g",
+    "categoria": "Suplementos",
+    "preco": 73.8,
+    "preco_antigo": 402.0,
+    "imagem": "img/suplemento-94.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD094?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 95,
+    "nome": "Spirulina 500g 100 Caps",
+    "categoria": "Suplementos",
+    "preco": 89.0,
+    "preco_antigo": 420.0,
+    "imagem": "img/suplemento-95.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000095?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 96,
+    "nome": "Chlorella 500g",
+    "categoria": "Suplementos",
+    "preco": 104.2,
+    "preco_antigo": 438.0,
+    "imagem": "img/suplemento-96.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD096?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 97,
+    "nome": "Guaraná em Pó 200g",
+    "categoria": "Suplementos",
+    "preco": 119.4,
+    "preco_antigo": 456.0,
+    "imagem": "img/suplemento-97.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000097?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 98,
+    "nome": "Polivitamínico Centrum Man 100 Tabs",
+    "categoria": "Suplementos",
+    "preco": 134.6,
+    "preco_antigo": 474.0,
+    "imagem": "img/suplemento-98.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD098?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 99,
+    "nome": "Vitamina K2 + D3 60 Caps",
+    "categoria": "Suplementos",
+    "preco": 149.8,
+    "preco_antigo": 492.0,
+    "imagem": "img/suplemento-99.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000099?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 100,
+    "nome": "Essencial Amino Energy 270g ON",
+    "categoria": "Suplementos",
+    "preco": 165.0,
+    "preco_antigo": 60.0,
+    "imagem": "img/suplemento-100.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD100?tag=uauachados-20",
+    "destaque": true
+  },
+  {
+    "id": 101,
+    "nome": "Painel Solar Monocristalino 550W Canadian",
+    "categoria": "Energia Solar",
+    "preco": 6245.4,
+    "preco_antigo": 6740.0,
+    "imagem": "img/solar-101.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000101?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 102,
+    "nome": "Inversor Híbrido Solar 5kW Growatt",
+    "categoria": "Energia Solar",
+    "preco": 6370.8,
+    "preco_antigo": 6880.0,
+    "imagem": "img/solar-102.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD102?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 103,
+    "nome": "Bateria Estacionária 240Ah Freedom",
+    "categoria": "Energia Solar",
+    "preco": 6496.2,
+    "preco_antigo": 7020.0,
+    "imagem": "img/solar-103.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000103?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 104,
+    "nome": "Controlador de Carga MPPT 60A EPEVER",
+    "categoria": "Energia Solar",
+    "preco": 121.6,
+    "preco_antigo": 7160.0,
+    "imagem": "img/solar-104.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD104?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 105,
+    "nome": "Kit Gerador Solar 3kW Completo",
+    "categoria": "Energia Solar",
+    "preco": 247.0,
+    "preco_antigo": 7300.0,
+    "imagem": "img/solar-105.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000105?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 106,
+    "nome": "Cabo Solar 6mm² Vermelho (100m)",
+    "categoria": "Energia Solar",
+    "preco": 372.4,
+    "preco_antigo": 7440.0,
+    "imagem": "img/solar-106.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD106?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 107,
+    "nome": "Conector MC4 para Painel Solar (Par)",
+    "categoria": "Energia Solar",
+    "preco": 497.8,
+    "preco_antigo": 7580.0,
+    "imagem": "img/solar-107.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000107?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 108,
+    "nome": "Disjuntor CC 63A Bipolar",
+    "categoria": "Energia Solar",
+    "preco": 623.2,
+    "preco_antigo": 220.0,
+    "imagem": "img/solar-108.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD108?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 109,
+    "nome": "DPS CC 1000V 3P para Energia Solar",
+    "categoria": "Energia Solar",
+    "preco": 748.6,
+    "preco_antigo": 360.0,
+    "imagem": "img/solar-109.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000109?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 110,
+    "nome": "Quadro de Distribuição Solar CC/CA",
+    "categoria": "Energia Solar",
+    "preco": 874.0,
+    "preco_antigo": 500.0,
+    "imagem": "img/solar-110.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD110?tag=uauachados-20",
+    "destaque": true
+  },
+  {
+    "id": 111,
+    "nome": "Painel Solar 580W JA Solar",
+    "categoria": "Energia Solar",
+    "preco": 999.4,
+    "preco_antigo": 640.0,
+    "imagem": "img/solar-111.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000111?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 112,
+    "nome": "Inversor On-Grid 3kW Fronius",
+    "categoria": "Energia Solar",
+    "preco": 1124.8,
+    "preco_antigo": 780.0,
+    "imagem": "img/solar-112.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD112?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 113,
+    "nome": "Bateria de Lítio 48V 100Ah Pylontech",
+    "categoria": "Energia Solar",
+    "preco": 1250.2,
+    "preco_antigo": 920.0,
+    "imagem": "img/solar-113.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000113?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 114,
+    "nome": "Kit Gerador Solar 5kW",
+    "categoria": "Energia Solar",
+    "preco": 1375.6,
+    "preco_antigo": 1060.0,
+    "imagem": "img/solar-114.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD114?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 115,
+    "nome": "Painel Solar Bifacial 600W",
+    "categoria": "Energia Solar",
+    "preco": 1501.0,
+    "preco_antigo": 1200.0,
+    "imagem": "img/solar-115.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000115?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 116,
+    "nome": "Inversor Híbrido 8kW Deye",
+    "categoria": "Energia Solar",
+    "preco": 1626.4,
+    "preco_antigo": 1340.0,
+    "imagem": "img/solar-116.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD116?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 117,
+    "nome": "Cabo Solar 4mm² Preto (100m)",
+    "categoria": "Energia Solar",
+    "preco": 1751.8,
+    "preco_antigo": 1480.0,
+    "imagem": "img/solar-117.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000117?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 118,
+    "nome": "Suporte de Alumínio para Telhado Fibrocimento",
+    "categoria": "Energia Solar",
+    "preco": 1877.2,
+    "preco_antigo": 1620.0,
+    "imagem": "img/solar-118.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD118?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 119,
+    "nome": "Suporte para Painel Solar em Laje",
+    "categoria": "Energia Solar",
+    "preco": 2002.6,
+    "preco_antigo": 1760.0,
+    "imagem": "img/solar-119.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000119?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 120,
+    "nome": "Clamp Meio para Fixação Solar",
+    "categoria": "Energia Solar",
+    "preco": 2128.0,
+    "preco_antigo": 1900.0,
+    "imagem": "img/solar-120.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD120?tag=uauachados-20",
+    "destaque": true
+  },
+  {
+    "id": 121,
+    "nome": "Clamp Fim para Fixação Solar",
+    "categoria": "Energia Solar",
+    "preco": 2253.4,
+    "preco_antigo": 2040.0,
+    "imagem": "img/solar-121.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000121?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 122,
+    "nome": "Haste de Aterramento 2m com Conector",
+    "categoria": "Energia Solar",
+    "preco": 2378.8,
+    "preco_antigo": 2180.0,
+    "imagem": "img/solar-122.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD122?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 123,
+    "nome": "Inversor Microinversor Hoymiles HM-1500",
+    "categoria": "Energia Solar",
+    "preco": 2504.2,
+    "preco_antigo": 2320.0,
+    "imagem": "img/solar-123.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000123?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 124,
+    "nome": "Monitor Wi-Fi para Inversor Solar",
+    "categoria": "Energia Solar",
+    "preco": 2629.6,
+    "preco_antigo": 2460.0,
+    "imagem": "img/solar-124.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD124?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 125,
+    "nome": "Medidor de Energia Bidirecional Monofásico",
+    "categoria": "Energia Solar",
+    "preco": 2755.0,
+    "preco_antigo": 2600.0,
+    "imagem": "img/solar-125.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000125?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 126,
+    "nome": "Medidor de Energia Bidirecional Trifásico",
+    "categoria": "Energia Solar",
+    "preco": 2880.4,
+    "preco_antigo": 2740.0,
+    "imagem": "img/solar-126.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD126?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 127,
+    "nome": "Seccionadora CC 32A 1000V",
+    "categoria": "Energia Solar",
+    "preco": 3005.8,
+    "preco_antigo": 2880.0,
+    "imagem": "img/solar-127.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000127?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 128,
+    "nome": "Fusível CC 15A com Base Fotovoltaica",
+    "categoria": "Energia Solar",
+    "preco": 3131.2,
+    "preco_antigo": 3020.0,
+    "imagem": "img/solar-128.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD128?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 129,
+    "nome": "Kit Conectores Y MC4 para Paralelo",
+    "categoria": "Energia Solar",
+    "preco": 3256.6,
+    "preco_antigo": 3160.0,
+    "imagem": "img/solar-129.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000129?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 130,
+    "nome": "Cabo de Aterramento Verde/Amarelo 10mm²",
+    "categoria": "Energia Solar",
+    "preco": 3382.0,
+    "preco_antigo": 3300.0,
+    "imagem": "img/solar-130.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD130?tag=uauachados-20",
+    "destaque": true
+  },
+  {
+    "id": 131,
+    "nome": "Painel Solar 450W Longi",
+    "categoria": "Energia Solar",
+    "preco": 3507.4,
+    "preco_antigo": 3440.0,
+    "imagem": "img/solar-131.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000131?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 132,
+    "nome": "Inversor On-Grid 5kW SMA",
+    "categoria": "Energia Solar",
+    "preco": 3632.8,
+    "preco_antigo": 3580.0,
+    "imagem": "img/solar-132.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD132?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 133,
+    "nome": "Bateria Estacionária 150Ah Heliar",
+    "categoria": "Energia Solar",
+    "preco": 3758.2,
+    "preco_antigo": 3720.0,
+    "imagem": "img/solar-133.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000133?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 134,
+    "nome": "Controlador de Carga PWM 30A",
+    "categoria": "Energia Solar",
+    "preco": 3883.6,
+    "preco_antigo": 3860.0,
+    "imagem": "img/solar-134.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD134?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 135,
+    "nome": "Kit Sistema Solar Isolação (Off-Grid) 1kW",
+    "categoria": "Energia Solar",
+    "preco": 4009.0,
+    "preco_antigo": 4000.0,
+    "imagem": "img/solar-135.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000135?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 136,
+    "nome": "Painel Solar Flexível 150W",
+    "categoria": "Energia Solar",
+    "preco": 4134.4,
+    "preco_antigo": 4140.0,
+    "imagem": "img/solar-136.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD136?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 137,
+    "nome": "Inversor Senoidal Pura 12V para 110V 2000W",
+    "categoria": "Energia Solar",
+    "preco": 4259.8,
+    "preco_antigo": 4280.0,
+    "imagem": "img/solar-137.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000137?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 138,
+    "nome": "Carregador de Bateria Solar 12V/24V",
+    "categoria": "Energia Solar",
+    "preco": 4385.2,
+    "preco_antigo": 4420.0,
+    "imagem": "img/solar-138.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD138?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 139,
+    "nome": "Bateria de Lítio 24V 50Ah",
+    "categoria": "Energia Solar",
+    "preco": 4510.6,
+    "preco_antigo": 4560.0,
+    "imagem": "img/solar-139.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000139?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 140,
+    "nome": "Estrutura para Fixação em Telhado Colonial",
+    "categoria": "Energia Solar",
+    "preco": 4636.0,
+    "preco_antigo": 4700.0,
+    "imagem": "img/solar-140.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD140?tag=uauachados-20",
+    "destaque": true
+  },
+  {
+    "id": 141,
+    "nome": "Estrutura para Solo Painéis Solares",
+    "categoria": "Energia Solar",
+    "preco": 4761.4,
+    "preco_antigo": 4840.0,
+    "imagem": "img/solar-141.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000141?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 142,
+    "nome": "Caixa de Junção Combiner Box CC",
+    "categoria": "Energia Solar",
+    "preco": 4886.8,
+    "preco_antigo": 4980.0,
+    "imagem": "img/solar-142.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD142?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 143,
+    "nome": "Cabo Coaxial Solar Especial",
+    "categoria": "Energia Solar",
+    "preco": 5012.2,
+    "preco_antigo": 5120.0,
+    "imagem": "img/solar-143.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000143?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 144,
+    "nome": "Terminal Tubular Pre-isolado 6mm²",
+    "categoria": "Energia Solar",
+    "preco": 5137.6,
+    "preco_antigo": 5260.0,
+    "imagem": "img/solar-144.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD144?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 145,
+    "nome": "Alicate de Crimpagem MC4",
+    "categoria": "Energia Solar",
+    "preco": 5263.0,
+    "preco_antigo": 5400.0,
+    "imagem": "img/solar-145.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000145?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 146,
+    "nome": "Multímetro Digital para Teste Solar",
+    "categoria": "Energia Solar",
+    "preco": 5388.4,
+    "preco_antigo": 5540.0,
+    "imagem": "img/solar-146.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD146?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 147,
+    "nome": "Amperímetro Clamp Meter Corrente CC",
+    "categoria": "Energia Solar",
+    "preco": 5513.8,
+    "preco_antigo": 5680.0,
+    "imagem": "img/solar-147.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000147?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 148,
+    "nome": "Termovisor para Painéis Solares",
+    "categoria": "Energia Solar",
+    "preco": 5639.2,
+    "preco_antigo": 5820.0,
+    "imagem": "img/solar-148.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD148?tag=uauachados-20",
+    "destaque": false
+  },
+  {
+    "id": 149,
+    "nome": "Lâmpada LED Solar Externa com Sensor 100W",
+    "categoria": "Energia Solar",
+    "preco": 5764.6,
+    "preco_antigo": 5960.0,
+    "imagem": "img/solar-149.jpg",
+    "link_afiliado": "https://produto.mercadolivre.com.br/MLB-1000000149?tracking_id=18735177",
+    "destaque": false
+  },
+  {
+    "id": 150,
+    "nome": "Gerador Solar Portátil Ecoflow River 2",
+    "categoria": "Energia Solar",
+    "preco": 5890.0,
+    "preco_antigo": 6100.0,
+    "imagem": "img/solar-150.jpg",
+    "link_afiliado": "https://www.amazon.com.br/dp/B00PROD150?tag=uauachados-20",
+    "destaque": true
+  }
+]
